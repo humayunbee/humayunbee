@@ -60,13 +60,10 @@ I am a passionate **Chief Technology Officer (CTO) & Senior Software Engineer** 
 <div align="left">
   <!-- Skill Icons Framework -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,vscode,figma,ps,ae,ai" alt="Skill Icons" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,vscode,figma,ps,ai,html,bootstrap,css,js,jquery,dart,docker,flutter,github,laravel,mysql,php,postman,ubuntu,windows" alt="Skill Icons" />
   </a>
-  <br><br>
-  <!-- New Tools Added with Stable Badges -->
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/HTTP_Toolkit-00B4B4?style=for-the-badge&logo=data-grip&logoColor=white" alt="HTTP Toolkit" />
-  <img src="https://img.shields.io/badge/Codex-100000?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" />
+  <br>
+  
 </div>
 
 ---
