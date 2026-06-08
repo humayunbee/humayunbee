@@ -65,13 +65,17 @@ I am a passionate **Chief Technology Officer (CTO) & Senior Software Engineer** 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=humayunbee&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true" alt="humayunbee's stats" />
-  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=humayunbee&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&count_private=true" alt="humayunbee's languages" />
+  <!-- Fixed Main GitHub Stats Card -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=humayunbee&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true" alt="Humayun's GitHub Stats" />
+  
+  <!-- Fixed Top Languages Card -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=humayunbee&layout=compact&langs_count=8&theme=react&hide_border=true" alt="Humayun's Top Languages" />
 </p>
 
 <div align="center">
   <p><b>Profile Visitors Count</b></p>
-  <img src="https://profile-counter.glitch.me/{humayunbee}/count.svg" alt="visitor counter" />
+  <!-- Fixed 100% Reliable Visitor Counter -->
+  <img src="https://komarev.com/ghvc/?username=humayunbee&color=00bfbf&style=flat-square" alt="visitor counter" />
 </div>
 
 <br>
