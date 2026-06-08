@@ -62,20 +62,13 @@ I am a passionate **Chief Technology Officer (CTO) & Senior Software Engineer** 
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 Profile Overview
 
 <p align="center">
-  <!-- 100% Reliable Custom Summary Badges from Shields.io (Never breaks or down) -->
   <img src="https://img.shields.io/badge/Contributions-2.1k+-00bfbf?style=for-the-badge&logo=github" alt="Contributions" />
   <img src="https://img.shields.io/badge/Role-CTO%20%2F%20Full--Stack-00bfbf?style=for-the-badge" alt="Role" />
   <img src="https://img.shields.io/badge/Location-Bangladesh-00bfbf?style=for-the-badge" alt="Location" />
 </p>
-
-<div align="center">
-  <p><b>Profile Visitors</b></p>
-  <!-- 100% Camo-friendly & High-Availability GitHub Counter -->
-  <img src="https://api.visitorbadge.io/api/visitors?page=humayunbee&color=00bfbf&style=flat-square" alt="Visitor Counter" />
-</div>
 
 <br>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
