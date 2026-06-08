@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=MD.+HUMAYUN+FARID&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=MD.+HUMAYUN+FARID+✔️&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=CHIEF+TECHNOLOGY+OFFICER+@+STITBD;FULL+STACK+ENGINEER+;LARAVEL++FLUTTER++SERVER+DEVOPS;BUILDING+SCALABLE+ENTERPRISE+SOLUTIONS)](https://git.io/typing-svg)
 
@@ -48,7 +48,6 @@ I am a passionate **Chief Technology Officer (CTO) & Senior Software Engineer** 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-
 ### DevOps, Servers & Systems
 ![WHM](https://img.shields.io/badge/WHM-FF6C2C?style=for-the-badge&logo=whm&logoColor=white)
 ![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white)
@@ -63,9 +62,9 @@ I am a passionate **Chief Technology Officer (CTO) & Senior Software Engineer** 
 ## 🧰 Software & Utilities
 
 <div align="left">
-  <!-- Skill Icons Framework: ক্যাটাগরি অনুযায়ী সাজানো -->
+  <!-- শুধু মাত্র সফটওয়্যার ও ইউটিলিটি টুলসের আইকনসমূহ -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,mysql,html,css,js,jquery,bootstrap,dart,flutter,androidstudio,vscode,figma,ai,ps,ubuntu,docker,github,windows,postman" alt="Skill Icons" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,vscode,figma,ai,ps,postman" alt="Software and Utilities" />
   </a>
 </div>
 
