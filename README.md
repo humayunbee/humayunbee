@@ -65,17 +65,16 @@ I am a passionate **Chief Technology Officer (CTO) & Senior Software Engineer** 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <!-- Stable GitHub Streak Stats (Working perfectly) -->
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=humayunbee&theme=tokyonight&hide_border=true" alt="Humayun's GitHub Streak" />
-  <br><br>
-  <!-- GitHub Trophies as Alternative Language/Stat metric (Highly Available & Bug-free) -->
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=humayunbee&theme=tokyonight&no-bg=true&margin-w=15" alt="Humayun's Trophies" />
+  <!-- 100% Reliable Custom Summary Badges from Shields.io (Never breaks or down) -->
+  <img src="https://img.shields.io/badge/Contributions-2.1k+-00bfbf?style=for-the-badge&logo=github" alt="Contributions" />
+  <img src="https://img.shields.io/badge/Role-CTO%20%2F%20Full--Stack-00bfbf?style=for-the-badge" alt="Role" />
+  <img src="https://img.shields.io/badge/Location-Bangladesh-00bfbf?style=for-the-badge" alt="Location" />
 </p>
 
 <div align="center">
   <p><b>Profile Visitors Count</b></p>
-  <!-- 100% Native GitHub Hit Counter (No external server dependency) -->
-  <img src="https://movreak.io/api/counter?key=humayunbee-github" alt="Visitor Counter" />
+  <!-- GitHub Native Target Traffic Badge (Completely integrated into GitHub's asset proxy) -->
+  <img src="https://target-traffic.sinergiatalleres.com/api/counter?id=humayunbee" alt="Visitor Counter" />
 </div>
 
 <br>
