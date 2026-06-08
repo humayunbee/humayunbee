@@ -57,11 +57,17 @@ I am a passionate **Chief Technology Officer (CTO) & Senior Software Engineer** 
 
 ## 🧰 Software & Utilities
 
-<p align="left">
+<div align="left">
+  <!-- Skill Icons Framework -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,vscode,figma,ps,ae,ai" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,vscode,figma,ps,ae,ai" alt="Skill Icons" />
   </a>
-</p>
+  <br><br>
+  <!-- New Tools Added with Stable Badges -->
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/HTTP_Toolkit-00B4B4?style=for-the-badge&logo=data-grip&logoColor=white" alt="HTTP Toolkit" />
+  <img src="https://img.shields.io/badge/Codex-100000?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" />
+</div>
 
 ---
 
