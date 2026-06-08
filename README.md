@@ -37,6 +37,8 @@ I am a passionate **Chief Technology Officer (CTO) & Senior Software Engineer** 
 
 ---
 
+ <img src="commit_snake.svg"/>
+
 ## 🛠️ Technical Skills
 
 ### Backend & Frameworks
