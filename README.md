@@ -14,10 +14,10 @@
 I am a passionate **Chief Technology Officer (CTO) & Senior Software Engineer** based in Bangladesh. With extensive experience in architecting high-performance web backends, cross-platform mobile apps, and robust server infrastructures, I specialize in bridging the gap between hardware systems and scalable cloud software.
 
 *   🔬 **Current Role:** CTO at **STITBD**.
-*   💼 **Core Expertise:** Enterprise Software Architecture, Full-Stack PHP (Laravel/CodeIgniter), and Mobile Apps (Flutter) [cite: Source: Gemini Chat. Evidence: Frequent technical inquiries regarding database architecture, backend logic, and view rendering. Date: 2025-06 to 2026-05., Source: Gemini Chat. Evidence: Sustained troubleshooting of Flutter builds, Gradle configurations, and Android SDK management. Date: 2025-08 to 2026-04.].
+*   💼 **Core Expertise:** Enterprise Software Architecture, Full-Stack PHP (Laravel/CodeIgniter), and Mobile Apps (Flutter) 
 *   🚀 **Hardware Integration:** Specialized in syncing automated IoT & Biometric Attendance Devices (like ZKTeco) with enterprise HRMS systems.
 *   🛡️ **DevOps & Infrastructure:** Expert in VPS provisioning, WHM/cPanel configuration, DNS administration, and server security monitoring.
-*   📫 **Reach Me:** Search **Md. Humayun Farid** on Google or connect via links below [cite: Source: Photos. Evidence: User confirmed name Humayun Farid. Date: N/A., Source: Gemini Chat. Evidence: User provided the name Md. Humayun Farid in professional CV contents and signature requests. Date: 2025-12 to 2026-04.].
+*   📫 **Reach Me:** Search **Md. Humayun Farid** on Google or connect via links below 
 
 ---
 
