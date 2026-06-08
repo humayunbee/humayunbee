@@ -47,6 +47,9 @@ I am a passionate **Chief Technology Officer (CTO) & Senior Software Engineer** 
 ### DevOps, Servers & Systems
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white)
+![WHM](https://img.shields.io/badge/WHM-FF6C2C?style=for-the-badge&logo=whm&logoColor=white)
+![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white)
+![GoDaddy](https://img.shields.io/badge/GoDaddy-1BDBAD?style=for-the-badge&logo=godaddy&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
