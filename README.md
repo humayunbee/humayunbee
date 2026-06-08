@@ -1,9 +1,11 @@
 <p align="center">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=MD.+HUMAYUN+FARID&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
-  <br>
-  <!-- ফেসবুক স্টাইল ব্লু ভেরিফাইড ব্যাজ -->
-  <img src="https://img.shields.io/badge/Verified-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Blue Badge" />
 </p>
+
+<h1 align="center">
+  Md. Humayun Farid 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Twitter_Verified_Badge.svg" width="28" height="28" style="vertical-align: middle; margin-bottom: 4px;" alt="Verified Badge"/>
+</h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=CHIEF+TECHNOLOGY+OFFICER+@+STITBD;FULL+STACK+ENGINEER+;LARAVEL++FLUTTER++SERVER+DEVOPS;BUILDING+SCALABLE+ENTERPRISE+SOLUTIONS)](https://git.io/typing-svg)
 
@@ -11,9 +13,9 @@
 
 I am a passionate **Chief Technology Officer (CTO) & Senior Software Engineer** based in Bangladesh. With extensive experience in architecting high-performance web backends, cross-platform mobile apps, and robust server infrastructures, I specialize in bridging the gap between hardware systems and scalable cloud software.
 
-*   🔭 **Current Role:** CTO at **STITBD**.
+*   🔬 **Current Role:** CTO at **STITBD**.
 *   💼 **Core Expertise:** Enterprise Software Architecture, Full-Stack PHP (Laravel/CodeIgniter), and Mobile Apps (Flutter) [cite: Source: Gemini Chat. Evidence: Frequent technical inquiries regarding database architecture, backend logic, and view rendering. Date: 2025-06 to 2026-05., Source: Gemini Chat. Evidence: Sustained troubleshooting of Flutter builds, Gradle configurations, and Android SDK management. Date: 2025-08 to 2026-04.].
-*   🚀 **Hardware Integration:** Specialized in syncing automated IoT & Biometric Attendance Devices (like ZKTeco) with enterprise HRMS systems [cite: Source: Gemini Chat. Evidence: Discussions regarding fetching attendance data via IP, handling raw logs, and automating attendance synchronization with enterprise HR systems. Date: 2025-11 to 2026-04.].
+*   🚀 **Hardware Integration:** Specialized in syncing automated IoT & Biometric Attendance Devices (like ZKTeco) with enterprise HRMS systems.
 *   🛡️ **DevOps & Infrastructure:** Expert in VPS provisioning, WHM/cPanel configuration, DNS administration, and server security monitoring.
 *   📫 **Reach Me:** Search **Md. Humayun Farid** on Google or connect via links below [cite: Source: Photos. Evidence: User confirmed name Humayun Farid. Date: N/A., Source: Gemini Chat. Evidence: User provided the name Md. Humayun Farid in professional CV contents and signature requests. Date: 2025-12 to 2026-04.].
 
