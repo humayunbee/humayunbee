@@ -58,12 +58,10 @@ I am a passionate **Chief Technology Officer (CTO) & Senior Software Engineer** 
 ## 🧰 Software & Utilities
 
 <div align="left">
-  <!-- Skill Icons Framework -->
+  <!-- Skill Icons Framework: ক্যাটাগরি অনুযায়ী সাজানো -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,vscode,figma,ps,ai,html,bootstrap,css,js,jquery,dart,docker,flutter,github,laravel,mysql,php,postman,ubuntu,windows" alt="Skill Icons" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,mysql,html,css,js,jquery,bootstrap,dart,flutter,androidstudio,vscode,figma,ai,ps,ubuntu,docker,github,windows,postman" alt="Skill Icons" />
   </a>
-  <br>
-  
 </div>
 
 ---
