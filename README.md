@@ -73,8 +73,8 @@ I am a passionate **Chief Technology Officer (CTO) & Senior Software Engineer** 
 
 <div align="center">
   <p><b>Profile Visitors</b></p>
-  <!-- GitHub Built-in Native Search Counter Badge Framework (Safe from Camo Proxy limits) -->
-  <img src="https://profile-counter.glitch.me/humayunbee/count.svg" alt="Visitor Counter" />
+  <!-- 100% Camo-friendly & High-Availability GitHub Counter -->
+  <img src="https://api.visitorbadge.io/api/visitors?page=humayunbee&color=00bfbf&style=flat-square" alt="Visitor Counter" />
 </div>
 
 <br>
