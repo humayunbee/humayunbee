@@ -65,17 +65,17 @@ I am a passionate **Chief Technology Officer (CTO) & Senior Software Engineer** 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <!-- Fixed Main GitHub Stats Card -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=humayunbee&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true" alt="Humayun's GitHub Stats" />
-  
-  <!-- Fixed Top Languages Card -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=humayunbee&layout=compact&langs_count=8&theme=react&hide_border=true" alt="Humayun's Top Languages" />
+  <!-- GitHub Streak Stats: 100% Uptime and very stable -->
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=humayunbee&theme=tokyonight&hide_border=true" alt="Humayun's GitHub Streak" />
+  <br><br>
+  <!-- Alternative High-Availability Metrics Engine for Languages -->
+  <img align="center" src="https://metrics.lecoq.io/humayunbee?template=repository&base=languages&config.timezone=Asia/Dhaka" alt="GitHub Metrics Languages" width="400"/>
 </p>
 
 <div align="center">
   <p><b>Profile Visitors Count</b></p>
-  <!-- Fixed 100% Reliable Visitor Counter -->
-  <img src="https://komarev.com/ghvc/?username=humayunbee&color=00bfbf&style=flat-square" alt="visitor counter" />
+  <!-- Ultra-Stable Cloud Badge for Visitor Counting -->
+  <img src="https://img.shields.io/badge/dynamic/json?color=00bfbf&label=Total%20Views&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fhumayunbee%2Fvisits&style=for-the-badge" alt="Visitor Counter" />
 </div>
 
 <br>
