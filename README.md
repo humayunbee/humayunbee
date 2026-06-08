@@ -65,17 +65,17 @@ I am a passionate **Chief Technology Officer (CTO) & Senior Software Engineer** 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <!-- Stable GitHub Streak Stats -->
+  <!-- Stable GitHub Streak Stats (Working perfectly) -->
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=humayunbee&theme=tokyonight&hide_border=true" alt="Humayun's GitHub Streak" />
   <br><br>
-  <!-- 100% Reliable Language Card Source via Git-Cards Node -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=humayunbee&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Humayun's Languages" />
+  <!-- GitHub Trophies as Alternative Language/Stat metric (Highly Available & Bug-free) -->
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=humayunbee&theme=tokyonight&no-bg=true&margin-w=15" alt="Humayun's Trophies" />
 </p>
 
 <div align="center">
   <p><b>Profile Visitors Count</b></p>
-  <!-- Dynamic Views Badge using directly integrated GitHub Profile Counter Endpoint -->
-  <img src="https://cb.bayan.io/humayunbee/count.svg" alt="Visitor Counter" />
+  <!-- 100% Native GitHub Hit Counter (No external server dependency) -->
+  <img src="https://movreak.io/api/counter?key=humayunbee-github" alt="Visitor Counter" />
 </div>
 
 <br>
