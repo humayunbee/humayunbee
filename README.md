@@ -1,91 +1,324 @@
+﻿<div align="center">
+
+<!-- ================= 1. CINEMATIC HEADER ================= -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020409,25:050f24,50:0a2540,75:0284c7,100:00ff9d&height=280&section=header&text=Syed%20Hassan%20Dildar&fontSize=64&fontColor=ffffff&fontAlignY=38&fontAlign=50&desc=Principal%20Full-Stack%20Architect%20%7C%203D%20WebGL%20Craftsman%20%7C%20Creative%20Technologist&descAlignY=58&descSize=16&descFontColor=00f3ff&stroke=00f3ff&strokeWidth=1" />
+
+<br/>
+
+<!-- ================= 2. LIVE SYSTEM TELEMETRY PILLS ================= -->
 <p align="center">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=MD.+HUMAYUN+FARID&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
+  <img src="https://komarev.com/ghpvc/?username=Hxni786&style=for-the-badge&color=0284c7&label=SYS_PROFILE_VIEWS&labelColor=020617" alt="Profile Views" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/CLEARANCE-LEVEL--07%20ROOT-00ff9d?style=for-the-badge&labelColor=020617&logo=superuser&logoColor=00ff9d" alt="Clearance" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/STATUS-100%25%20OPERATIONAL-00f3ff?style=for-the-badge&labelColor=020617&logo=checkmarx&logoColor=00f3ff" alt="Status" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/ARCHITECTURE-DISTRIBUTED%20%26%203D-38bdf8?style=for-the-badge&labelColor=020617" alt="Architecture" />
 </p>
 
-<h1 align="center">
-  Md. Humayun Farid 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Twitter_Verified_Badge.svg" width="28" height="28" style="vertical-align: middle; margin-bottom: 4px;" alt="Verified Badge"/>
-</h1>
+<!-- ================= 3. TYPEWRITER TERMINAL ================= -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=3200&pause=1200&color=00FF9D&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=860&height=50&lines=Principal+Full-Stack+Architect+%7C+Creative+Technologist;Crafting+immersive+60+FPS+3D+experiences+with+Three.js+%26+WebGL;Engineering+scalable+distributed+microservices+%26+sub-50ms+APIs;Designing+mission-critical+systems+that+scale+without+friction;Write+code+that+works.+Then+write+code+that+lasts." alt="Typing SVG" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=CHIEF+TECHNOLOGY+OFFICER+@+STITBD;FULL+STACK+ENGINEER+;LARAVEL++FLUTTER++SERVER+DEVOPS;BUILDING+SCALABLE+ENTERPRISE+SOLUTIONS)](https://git.io/typing-svg)
-
-## 👋 About Me
-
-I am a passionate **Chief Technology Officer (CTO) & Senior Software Engineer** based in Bangladesh. With extensive experience in architecting high-performance web backends, cross-platform mobile apps, and robust server infrastructures, I specialize in bridging the gap between hardware systems and scalable cloud software.
-
-*   🔬 **Current Role:** CTO at **STITBD**.
-*   💼 **Core Expertise:** Enterprise Software Architecture, Full-Stack PHP (Laravel/CodeIgniter), and Mobile Apps (Flutter) 
-*   🚀 **Hardware Integration:** Specialized in syncing automated IoT & Biometric Attendance Devices (like ZKTeco) with enterprise HRMS systems.
-*   🛡️ **DevOps & Infrastructure:** Expert in VPS provisioning, WHM/cPanel configuration, DNS administration, and server security monitoring.
-*   📫 **Reach Me:** Search **Md. Humayun Farid** on Google or connect via links below 
-
----
-
-## 🌐 Connect With Me
-
-<div align="left">
-  <a href="https://github.com/humayunbee" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
-  </a>
-  <a href="https://www.linkedin.com/in/HumayunBee/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
-  </a>
-  <a href="https://www.youtube.com/channel/UCq9Ep9vUItErO3satbHxqxg" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube" />
-  </a>
 </div>
 
 ---
 
- <img src="commit_snake.svg"/>
+<!-- ================= 4. COMMAND CENTER HUD BANNER ================= -->
+<p align="center">
+  <img src="./banner.svg?v=1" alt="Developer Command Center HUD" width="100%">
+</p>
 
-## 🛠️ Technical Skills
+<!-- ================= 5. 3D LANYARD & PRODUCTION STATS ================= -->
+<table border="0" width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="42%" align="center" valign="top">
+      <img src="./lanyard.svg?v=1" alt="Staff Architect ID Badge" width="100%">
+    </td>
+    <td width="58%" align="center" valign="top">
+      <img src="./stats.svg?v=1" alt="Production Telemetry & Radar" width="100%">
+    </td>
+  </tr>
+</table>
 
-### Backend & Frameworks
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-%23EE4323.svg?style=for-the-badge&logo=codeigniter&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+<!-- ================= 6. ANIMATED FULL-STACK & 3D PIPELINE ================= -->
+<p align="center">
+  <img src="./pipeline.svg?v=1" alt="Full-Stack & 3D WebGL Pipeline Architecture" width="100%">
+</p>
 
-### Mobile & Frontend Development
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### DevOps, Servers & Systems
-![WHM](https://img.shields.io/badge/WHM-FF6C2C?style=for-the-badge&logo=whm&logoColor=white)
-![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white)
-![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![GoDaddy](https://img.shields.io/badge/GoDaddy-1BDBAD?style=for-the-badge&logo=godaddy&logoColor=black)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<!-- ================= 7. GITHUB CONTRIBUTION SNAKE ================= -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Hxni786/Hxni786/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%">
+</p>
 
 ---
 
-## 🧰 Software & Utilities
+<div align="center">
 
-<div align="left">
-  <!-- শুধু মাত্র সফটওয়্যার ও ইউটিলিটি টুলসের আইকনসমূহ -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,vscode,figma,ai,ps,postman" alt="Software and Utilities" />
-  </a>
+## ⚡ Architectural Tenets & Engineering Ethos
+
+> *"Good software solves the immediate problem. Resilient architecture scales horizontally, fails gracefully, and delivers deterministic sub-50ms performance under extreme load."*
+
+</div>
+
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      <h4>🎯 Zero-Compromise Performance</h4>
+      <sub>Optimized rendering pipelines, sub-50ms API responses, 60 FPS GPU-accelerated Three.js WebGL shaders, and aggressive edge caching.</sub>
+    </td>
+    <td width="33%" valign="top">
+      <h4>🛡️ Distributed Resilience</h4>
+      <sub>Fault-tolerant microservices, circuit-breaking patterns, event-driven decoupling with async queues, and ACID transactional integrity.</sub>
+    </td>
+    <td width="33%" valign="top">
+      <h4>💎 Clean Architectural Boundaries</h4>
+      <sub>Domain-driven design, strictly typed contracts with TypeScript, self-documenting APIs, and modular micro-frontends.</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+<!-- ================= 8. FLAGSHIP ENGINEERING REPOSITORIES ================= -->
+
+<div align="center">
+
+## 🚀 Flagship Engineering Deployments
+<sub>Explore featured production systems, 3D interactive experiences, and full-stack architectures.</sub>
+<br/><br/>
+
+<table border="0" width="100%">
+  <tr>
+    <td align="center" width="50%" valign="top">
+      <a href="https://a-talking-cinematic-portfolio-yfq6.vercel.app/" target="_blank">
+        <img src="https://raw.githubusercontent.com/Hxni786/3d-portfolio-main/main/public/images/preview.png" width="100%" style="border-radius: 10px;" />
+      </a>
+      <br/><br/>
+      <b>🌐 The 3D Nexus — Cinematic Walking Portfolio</b><br/>
+      <sub>Immersive 60 FPS 3D WebGL environment built with Three.js, custom GLSL shaders, camera lerping, and dynamic spatial audio.</sub>
+      <br/><br/>
+      <code>Three.js</code> • <code>WebGL</code> • <code>TypeScript</code> • <code>Next.js</code> • <code>Vercel</code>
+      <br/><br/>
+      <a href="https://a-talking-cinematic-portfolio-yfq6.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/Demo-Live%20Experience-00ff9d?style=flat-square&logo=vercel&logoColor=black" />
+      </a>
+      &nbsp;
+      <a href="https://github.com/Hxni786/A-Walking-Cinematic-Portfolio" target="_blank">
+        <img src="https://img.shields.io/badge/Repo-View%20Source-38bdf8?style=flat-square&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td align="center" width="50%" valign="top">
+      <a href="https://github.com/Hxni786/E-store2" target="_blank">
+        <img src="https://raw.githubusercontent.com/Hxni786/E-store2/main/docs/ui-preview.png" width="100%" style="border-radius: 10px;" />
+      </a>
+      <br/><br/>
+      <b>📱 Bespoke E-Store 2.0</b><br/>
+      <sub>Luxury mobile commerce platform engineered with fluid gesture interactions, micro-animations, and persistent cart state.</sub>
+      <br/><br/>
+      <code>React Native</code> • <code>Expo</code> • <code>Node.js</code> • <code>REST API</code> • <code>Stripe</code>
+      <br/><br/>
+      <a href="https://github.com/Hxni786/E-store2" target="_blank">
+        <img src="https://img.shields.io/badge/Repo-View%20Source-38bdf8?style=flat-square&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%" valign="top">
+      <a href="https://github.com/Hxni786/Ticket-Booking-App" target="_blank">
+        <img src="https://raw.githubusercontent.com/Hxni786/Ticket-Booking-App/main/mobile/assets/promo1.png" width="100%" style="border-radius: 10px;" />
+      </a>
+      <br/><br/>
+      <b>🎟️ TicketVerse — High-Concurrency Booking Engine</b><br/>
+      <sub>Full-stack event reservation ecosystem featuring real-time seat locks via WebSockets and ACID transactional checkout.</sub>
+      <br/><br/>
+      <code>React 19</code> • <code>Node.js</code> • <code>WebSockets</code> • <code>MySQL</code> • <code>Redis</code>
+      <br/><br/>
+      <a href="https://github.com/Hxni786/Ticket-Booking-App" target="_blank">
+        <img src="https://img.shields.io/badge/Repo-View%20Source-38bdf8?style=flat-square&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td align="center" width="50%" valign="top">
+      <a href="https://github.com/Hxni786/Nixh-A-social-Media-App" target="_blank">
+        <img src="https://raw.githubusercontent.com/Hxni786/Nixh-A-social-Media-App/main/docs/assets/mobile_mockup.png" width="100%" style="border-radius: 10px;" />
+      </a>
+      <br/><br/>
+      <b>💬 NIXH Social — Multi-User Directory Engine</b><br/>
+      <sub>Scalable social network platform supporting real-time chat, media processing pipelines, and relation-graph queries.</sub>
+      <br/><br/>
+      <code>React Native</code> • <code>Express.js</code> • <code>MongoDB</code> • <code>Socket.io</code> • <code>JWT</code>
+      <br/><br/>
+      <a href="https://github.com/Hxni786/Nixh-A-social-Media-App" target="_blank">
+        <img src="https://img.shields.io/badge/Repo-View%20Source-38bdf8?style=flat-square&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%" valign="top">
+      <a href="https://github.com/Hxni786/A-food-Delivery-App-hxni-express" target="_blank">
+        <img src="https://raw.githubusercontent.com/Hxni786/Hxni-Ecommerce-Store/main/profile_docs/assets/hxni_express_mockup.png" width="100%" style="border-radius: 10px;" />
+      </a>
+      <br/><br/>
+      <b>🍔 hxni Express — Parallax Food Delivery</b><br/>
+      <sub>Real-time order dispatch and courier GPS tracking ecosystem with ultra-smooth parallax UI transitions.</sub>
+      <br/><br/>
+      <code>React.js</code> • <code>Tailwind CSS</code> • <code>Node.js</code> • <code>Google Maps API</code>
+      <br/><br/>
+      <a href="https://github.com/Hxni786/A-food-Delivery-App-hxni-express" target="_blank">
+        <img src="https://img.shields.io/badge/Repo-View%20Source-38bdf8?style=flat-square&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td align="center" width="50%" valign="top">
+      <a href="https://github.com/Hxni786/Expense-Tracker" target="_blank">
+        <img src="https://raw.githubusercontent.com/Hxni786/Hxni-Ecommerce-Store/main/profile_docs/assets/hxni_finance_mockup.png" width="100%" style="border-radius: 10px;" />
+      </a>
+      <br/><br/>
+      <b>📊 Hxni Finance — Asset &amp; Expense Telemetry</b><br/>
+      <sub>Personal wealth analytics dashboard with dynamic SVG data visualization, budget forecasting, and export tools.</sub>
+      <br/><br/>
+      <code>Next.js</code> • <code>Chart.js</code> • <code>Firebase</code> • <code>Tailwind</code>
+      <br/><br/>
+      <a href="https://github.com/Hxni786/Expense-Tracker" target="_blank">
+        <img src="https://img.shields.io/badge/Repo-View%20Source-38bdf8?style=flat-square&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 </div>
 
 ---
 
-## 📊 Profile Overview
+<!-- ================= 9. CLASSIFIED TECH ARSENAL MATRIX ================= -->
+
+<div align="center">
+
+## 🛠️ Classified Tech Arsenal Matrix
+
+<table width="100%">
+  <tr>
+    <td align="center" width="50%" valign="top">
+      <h4>🎨 Frontend &amp; 3D Graphics</h4>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,threejs,tailwind,html,css&theme=dark&perline=8" alt="Frontend Stack" />
+      <br/><br/>
+      <sub>React 19 • Next.js 14 • TypeScript • Three.js • WebGL Shaders • Tailwind CSS • Framer Motion</sub>
+    </td>
+    <td align="center" width="50%" valign="top">
+      <h4>⚙️ Backend &amp; Distributed Systems</h4>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql,python&theme=dark&perline=8" alt="Backend Stack" />
+      <br/><br/>
+      <sub>Node.js • Express • NestJS • WebSockets (Realtime) • REST APIs • GraphQL • Microservices</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%" valign="top">
+      <h4>💾 Data Persistence &amp; Caching</h4>
+      <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase&theme=dark&perline=8" alt="Database Stack" />
+      <br/><br/>
+      <sub>PostgreSQL • MySQL • Redis (In-Memory) • MongoDB • Firebase Firestore • Prisma / TypeORM</sub>
+    </td>
+    <td align="center" width="50%" valign="top">
+      <h4>🚀 Mobile, DevOps &amp; Cloud Tools</h4>
+      <img src="https://skillicons.dev/icons?i=androidstudio,docker,git,github,vscode,postman,vercel,netlify&theme=dark&perline=8" alt="DevOps Stack" />
+      <br/><br/>
+      <sub>React Native • Docker Containers • GitHub Actions CI/CD • Linux • Vercel • Postman</sub>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+<!-- ================= 10. REAL-TIME TELEMETRY & ACHIEVEMENTS ================= -->
+
+<div align="center">
+
+## 📈 Real-Time GitHub Telemetry & Velocity
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Contributions-2.1k+-00bfbf?style=for-the-badge&logo=github" alt="Contributions" />
-  <img src="https://img.shields.io/badge/Role-CTO%20%2F%20Full--Stack-00bfbf?style=for-the-badge" alt="Role" />
-  <img src="https://img.shields.io/badge/Location-Bangladesh-00bfbf?style=for-the-badge" alt="Location" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hxni786&theme=tokyonight&hide_border=true&background=040711&stroke=00f3ff&ring=00ff9d&fire=00ff9d&currStreakNum=00f3ff" alt="GitHub Streak" width="49%" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hxni786&layout=compact&theme=tokyonight&hide_border=true&bg_color=040711&text_color=94a3b8&title_color=00ff9d" alt="Top Languages" width="48%" />
 </p>
 
-<br>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+### 🏆 Verified GitHub Achievements
+<br/>
+
+<table border="0">
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="75" /><br/>
+      <b>Pair Extraordinaire</b><br/>
+      <sub>Co-authored commits</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="75" /><br/>
+      <b>Pull Shark</b><br/>
+      <sub>Merged pull requests</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="75" /><br/>
+      <b>YOLO</b><br/>
+      <sub>Merged without review</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="75" /><br/>
+      <b>Starstruck</b><br/>
+      <sub>Stargazer milestone</sub>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+<!-- ================= 11. AUTHENTICATED CONTACT DECK & QR ================= -->
+
+<div align="center">
+
+## 📡 Authenticated Comms & Contact Deck
+
+<br/>
+
+<p align="center">
+  <a href="https://a-talking-cinematic-portfolio-yfq6.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Live%20Site-00ff9d?style=for-the-badge&logo=vercel&logoColor=black&labelColor=020617" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/syed-hassan-dildar-b40649400" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-00f3ff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=020617" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/the.cipher.stack" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@the.cipher.stack-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=020617" />
+  </a>
+  &nbsp;
+  <a href="mailto:msgoat550@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Direct%20Inquiry-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=020617" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Hxni786" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow%20Engineering-ffffff?style=for-the-badge&logo=github&logoColor=black&labelColor=020617" />
+  </a>
+</p>
+
+<br/>
+
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="center" valign="middle" width="180">
+      <b>Scan for 3D Portfolio</b><br/><br/>
+      <img src="https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https://a-talking-cinematic-portfolio-yfq6.vercel.app/&color=00ff9d&bgcolor=020617&margin=8" alt="Portfolio QR Code" width="140" style="border-radius: 8px;" />
+    </td>
+    <td align="center" valign="middle">
+      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=3500&pause=1200&color=00F3FF&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=520&height=50&lines=Thank+you+for+inspecting+the+architecture.;Available+for+high-impact+roles+%26+consulting.;Let%27s+build+systems+that+redefine+the+standard." alt="Footer Typing" />
+    </td>
+  </tr>
+</table>
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9d,25:0284c7,50:0a2540,75:050f24,100:020409&height=140&section=footer&text=%22Write+code+that+works.+Then+write+code+that+lasts.%22&fontSize=15&fontColor=00ff9d&fontAlignY=68&reversal=true" />
+
+</div>
